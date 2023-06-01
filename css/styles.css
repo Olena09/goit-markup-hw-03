@@ -240,14 +240,13 @@ img {
 .advantages-section {
     padding-left: 156px;
     padding-right: 156px;
-    max-width: 1128;
     padding: 120px 0;
 }
 
 .advantages-section-item {
     display: flex;
     gap: 24px;
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px) / 4);
 }
 
 .advantages-list {
@@ -292,7 +291,7 @@ img {
 }
 
 .doing-list-item {
-    max-width: calc((100%-48)/3);
+    max-width: calc((100% - 48) / 3);
 }
 
 /* ------------Section4------------ */
@@ -430,7 +429,7 @@ img {
 
 .portfolio-item {
     max-width: 1128px;
-    width: calc((100%-48)/3);
+    width: calc((100% - 48) / 3);
     margin-bottom: 48px;
 }
 
